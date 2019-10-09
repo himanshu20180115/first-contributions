@@ -6,7 +6,7 @@
 
 # First Contributions
 
-|<img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="200">|GitHub Desktop Edition|
+|<img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="250">|GitHub Desktop Edition|
 |---|---|
 
 It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
@@ -18,7 +18,7 @@ Reading articles & watching tutorials can help, but what comes better than actua
 If you don't have GitHub Desktop on your machine, [install it](https://desktop.github.com/).
 
 ## Fork this repository
-
+## this is a repository
 Fork this repo by clicking on the fork button on the top of this page.
 This will create of copy of this repository in your account.
 
@@ -112,10 +112,10 @@ Now let's get you started with contributing to other projects. We've compiled a 
 |[Command Line](README.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
 
 ## Self-Promotion
-
+## pubilicity 
 If you liked this project, star it on [GitHub](https://github.com/Roshanjossey/first-contributions).
 If you're feeling especially charitable, follow [Roshan](https://roshanjossey.github.io/) on
 [Twitter](https://twitter.com/sudo__bangbang) and
 [GitHub](https://github.com/roshanjossey).
 
-<a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
+<a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="assets/saasgrids-banner.png" width="100"></a>
